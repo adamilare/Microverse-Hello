@@ -65,9 +65,9 @@ Example commands:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/adamilare)
-- Twitter: [@twitterhandle](https://twitter.com/mailtodare)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/adamilare)
+- GitHub: [@adamilare](https://github.com/adamilare)
+- Twitter: [@mailtodare](https://twitter.com/mailtodare)
+- LinkedIn: [ADamilare](https://linkedin.com/in/adamilare)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,7 +81,7 @@ I would like to thank my fellow coding partners; Emmanuel Obi and Okonkwo Echezo
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
